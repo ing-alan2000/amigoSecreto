@@ -19,4 +19,4 @@ Este proyecto es una aplicación web simple para sortear un **amigo secreto** en
 
 1. **Clonar el repositorio**  
    ```bash
-   git clone https://github.com/tu-usuario/amigo-secreto.git
+   git clone https://github.com/ing-alan2000/amigoSecreto.git
